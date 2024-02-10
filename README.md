@@ -13,6 +13,12 @@ Our dataset was constructed by concatenating the 'song_info' and 'artist_info' f
 
 ![Capture](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/9f61adb1-500f-41bf-b177-b06ac799736c)
 
+![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/23dc3eeb-4ad5-4cae-8532-3e769649e64a)
+![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/0da94a2d-d838-47ec-bbc9-948c27b748bf)
+
+
+
+
 
 
 
