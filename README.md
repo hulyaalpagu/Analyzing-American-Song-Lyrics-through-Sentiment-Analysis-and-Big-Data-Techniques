@@ -1,4 +1,6 @@
-![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/32c28601-0134-44eb-a34d-38234a7860ba)
+![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/4b63c133-30c7-4e79-b3fa-97c7782e5605)
+
+
 Our project aims to accurately predict positive and negative emotions in American song lyrics by employing advanced sentiment analysis models, such as Lexicon-Based, VADER, and TextBlob.
 
 ![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/cff7b1ab-0bb7-4adf-8b0f-484e9ef3f285)
@@ -14,7 +16,10 @@ Our dataset was constructed by concatenating the 'song_info' and 'artist_info' f
 ![Capture](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/9f61adb1-500f-41bf-b177-b06ac799736c)
 
 ![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/23dc3eeb-4ad5-4cae-8532-3e769649e64a)
-![image](https://github.com/hulyaalpagu/Analyzing-American-Song-Lyrics-through-Sentiment-Analysis-and-Big-Data-Techniques/assets/134128982/0da94a2d-d838-47ec-bbc9-948c27b748bf)
+
+In our project, we utilized Custom Lexicon-Based, VADER, and TextBlob sentiment analysis methods for their proven effectiveness.
+
+
 
 
 
